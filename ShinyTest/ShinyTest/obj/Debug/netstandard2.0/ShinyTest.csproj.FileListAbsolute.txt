@@ -1,0 +1,12 @@
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\bin\Debug\netstandard2.0\ShinyTest.deps.json
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\bin\Debug\netstandard2.0\ShinyTest.dll
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\bin\Debug\netstandard2.0\ShinyTest.pdb
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\obj\Debug\netstandard2.0\ShinyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\obj\Debug\netstandard2.0\ShinyTest.AssemblyInfoInputs.cache
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\obj\Debug\netstandard2.0\ShinyTest.AssemblyInfo.cs
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\obj\Debug\netstandard2.0\ShinyTest.csproj.CoreCompileInputs.cache
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\obj\Debug\netstandard2.0\ShinyTest.dll
+C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\obj\Debug\netstandard2.0\ShinyTest.pdb

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Prism.DryIoc.Extensions" Version="8.0.69" />
+    <PackageReference Include="Prism.Forms.Extended" Version="8.0.69" />
+    <PackageReference Include="Shiny" Version="2.2.0.2829" />
+    <PackageReference Include="Shiny.Prism" Version="8.0.69" />
+    <PackageReference Include="Shiny.Push.AzureNotificationHubs" Version="2.2.0.2829" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2083" />
+    <PackageReference Include="Xamarin.Essentials.Interfaces" Version="1.7.0" />
+    <PackageReference Include="Prism.DryIoc.Forms" Version="8.1.97" />
+  </ItemGroup>
+
+</Project>

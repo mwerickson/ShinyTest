@@ -1,0 +1,6 @@
+is_global = true
+build_property.OutputType = Library
+build_property.TargetFrameworkIdentifier = .NETStandard
+build_property.RootNamespace = ShinyTest
+build_property.RootNamespace = ShinyTest
+build_property.ProjectDir = C:\Users\merickson\source\repos\ShinyTest\ShinyTest\ShinyTest\ShinyTest\

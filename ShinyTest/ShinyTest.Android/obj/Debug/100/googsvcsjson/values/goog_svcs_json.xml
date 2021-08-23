@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="gcm_defaultSenderId" translatable="false">215254293617</string>
+  <string name="google_storage_bucket" translatable="false">ir-mobile-199912.appspot.com</string>
+  <string name="project_id" translatable="false">ir-mobile-199912</string>
+</resources>
